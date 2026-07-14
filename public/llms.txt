@@ -1,0 +1,6 @@
+# SKGPT
+
+> Chill AI chat that helps you build Roblox games — writes Lua scripts, explains LocalScript vs Script, and works with Studio Lite.
+
+## Pages
+- [Home](/): SKGPT chat interface with model and mode selectors
